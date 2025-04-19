@@ -68,26 +68,7 @@ Sales Trend Analysis
 
 Excel Automation & Productivity Features
 
-📎 How to Use
-Open the Excel workbook.
-
-Navigate through the worksheets:
-
-RetailData – Imported retail sales.
-
-FoodTrucks – Entered and analyzed food truck sales.
-
-Charts – Visualizations of sales performance.
-
-LoanCalc – Loan payment analysis.
-
-BrickMortar – Daily sales metrics and Goal Seek.
-
-OnlineSales – PivotTable and filtering on e-commerce data.
-
 Review summary insights through charts and metrics.
-
-Print-ready pages available as formatted.
 
 ✅ Outcomes
 A complete and formatted sales tracking workbook for Top’t Corn.
